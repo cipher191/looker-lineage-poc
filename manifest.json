@@ -1,7 +1,6 @@
 {
   "name": "Force Directed Graph",
   "description": "A D3.js looker",
-  "organization": "Your Organization",
   "visualization": {
     "id": "force-directed-graph",
     "label": "Force Directed Graph"
