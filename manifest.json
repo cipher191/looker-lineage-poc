@@ -1,0 +1,7 @@
+{
+    "name": "Force-Directed Graph",
+    "description": "D3js looker integration",
+    "scripts": ["scr.js"],
+    "html": "index.html"
+  }
+  
